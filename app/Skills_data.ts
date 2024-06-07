@@ -11,7 +11,7 @@ export default {
     "SQL",
   ],
   frameworks: [
-    "Angular",
+    "React",
     "Vue",
     "Node.js",
     "Pandas",
@@ -53,10 +53,5 @@ export default {
     "Rest APIs",
     "Machine Learning",
   ],
-  softSkills: [
-    "Collaboration",
-    "Leadership",
-    "Multi-tasking",
-    "Accountability",
-  ],
+
 };
