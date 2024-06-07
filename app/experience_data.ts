@@ -12,7 +12,7 @@ export default [
     position: 'Data Engineer',
   },
   {
-    company: 'Infosys Limited',
+    company: 'Ramrao Adik Institute of Technology',
     url: 'https://dypatil.edu/schools/ramrao-adik-institute-of-technology',
     time: 'June 2019 - July 2020',
     position: 'Software Developer Intern',

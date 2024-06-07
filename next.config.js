@@ -12,6 +12,14 @@ const nextConfig = {
  
   // Optional: Change the output directory `out` -> `dist`
   // distDir: 'dist',
+  basePath: '/<repository-name>', // Replace '<repository-name>' with your GitHub repository name
+  assetPrefix: '/<repository-name>/',
+
+  images: {
+    loader: 'imgix', // Use 'imgix' as the loader
+    path: '', // Specify an empty path to use relative URLs for image loading
+    unoptimized: true // Disable optimization to avoid server-side processing
+  }
 }
  
 module.exports = nextConfig
