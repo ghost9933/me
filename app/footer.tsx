@@ -21,7 +21,7 @@ export default function Footer() {
       <div className="footer__copyright middle">
         <span>Built by&nbsp;</span>
         <span><em>Nikhil Nandkumar Mhatre</em></span>
-        <img src="/emojis/rockon.png" alt="" className="emoji" />
+        <img src="./emojis/rockon.png" alt="" className="emoji" />
         <span>2024</span>
       </div>
       <div className="footer__links">
