@@ -1,57 +1,56 @@
+Here's a revised and personalized GitHub profile README for Nikhil Mhatre, designed to showcase his skills, experience, and educational background effectively. This revised version enhances readability and emphasizes key achievements.
+
+---
+
 ### Hi there 👋
-#### Check out my website at [sanjaysatishshekar.github.io](https://sanjaysatishshekar.github.io/)
+#### Check out my website at [nikhilmhatre.github.io](https://nikhilmhatre.github.io/)
 
-<!--Credits for template: https://github.com/ombharatiya -->
-
-# Sanjay Satish Shekar
-### A Passionate and Enthusiastic Software Engineer and Web Developer 💻 💖
-Welcome to my Github! Here you'll find a collection of my projects, skills and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2024. Feel free to explore and get in touch!
+# Nikhil Mhatre
+### Passionate Data Engineer and Software Developer 💻 💖
+Welcome to my GitHub! This is where I showcase projects spanning cloud-native applications, big data, and AI. I'm currently on the lookout for full-time Software Engineering opportunities starting May 2024. Dive in and feel free to reach out!
 
 ## About Me
-Hi, I'm Sanjay Satish Shekar, a skilled and passionate **Software Developer** specializing in **Big Data and Artificial Intelligence**. I'm currently pursuing my final semester of **Master's degree in Computer Science and Engineering from the University of Texas at Arlington**. I enjoy working on complex and diverse systems and have experience in web development, full stack app development and database management. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hello, I'm **Nikhil Mhatre**, a dedicated **Software Developer and Data Engineer** with a specialization in **Cloud Computing and Big Data**. I'm finishing up my **Master's in Computer Science** at **University of Texas at Arlington**, boasting a perfect 4.0 GPA. My professional journey is marked by roles that span full stack development, database management, and crafting scalable cloud solutions. I aim to leverage my extensive tech expertise to drive innovation and efficiency in software engineering.
 
-<!-- ![](https://komarev.com/ghpvc/?username=sanjaysatishshekar&color=green) -->
-
-<!--Credits for template: https://github.com/amadoabaca -->
-
-### aboutMe.js
+### Nikhil.js
 
 ```javascript
-const sanjay = {
+const nikhil = {
     pronouns: "he" | "him",
-    code: ["Java", "Javascript", "Python", "React", "SQL", "HTML", "CSS", "Golang", "spark"],
-    askMeAbout: ["web dev", "front end", "back end", "full stack", "big data", "coffee"],
+    code: ["Java", "JavaScript", "Python", "SQL", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "data engineering", "cloud solutions", "AI"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize", "tailwindcss"],
-            js: ["React", "NextJs", "Remix"]
+            js: ["React", "Angular", "Vue"],
+            css: ["bootstrap", "materialize", "tailwindcss"]
         },
         backEnd: {
-            js: ["springboot", "node", "flask"]
+            languages: ["Java", "Python", "Node.js"],
+            frameworks: ["Spring Boot", "Flask"]
         },
-        databases: ["MySQL", "Cassandra", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Docker", "AWS", "Kubernetes", "Jupyter Notebook"]
-    }
+        devOps: ["AWS", "Docker", "Kubernetes", "Jenkins"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL", "Cassandra"],
+        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV"]
+    },
+    currentFocus: "Harnessing Cloud Computing for scalable Big Data applications"
 };
 ```
 
-### My Skillset Overview 💻
+### My Technical Portfolio 💻
 
-**Languages**: Java, Python, C, JavaScript, Docker, C++, Go lang, PHP, Scala, Kubernetes   
-**AWS**: Lex, Lambda, S3, EC2, DynamoDB   
-**Big Data Tools**: Hadoop, Spark, Pig, Spark-SQL   
-**Development Frameworks**: Spring boot, Flask, Node.js   
-**Databases**: MongoDB, MySQL, PostgreSQL, Cassandra    
-**Misc Tools**: git, MS Office Suite, Websphere, Maven, Shell Scripting, Apache Tomcat   
+**Programming Languages**: Java, Python, C++, JavaScript  
+**Cloud Technologies**: AWS, GCP, Docker, Kubernetes  
+**Big Data Tools**: Hadoop, Spark, Kafka  
+**Frameworks**: Node.js, Spring Boot, Flask  
+**Databases**: MongoDB, MySQL, PostgreSQL, Cassandra  
+**Other Tools**: Git, Bash, Power BI, TensorFlow  
 
+## Professional Experience 👨‍💼
 
-## Work Experience 👨‍💼
-⚡️ Graduate Teaching Assistant: Cloud Computing and Big Data - [**Department of Computer Science, University of Texas at Arlington**](https://www.uta.edu/)
+⚡ **Data Engineer** - [**LTI Mindtree**](https://www.ltimindtree.com/) - Spearheaded initiatives to enhance data accuracy and reduce processing times significantly.
 
-⚡️ Specialist Programmer (Full Stack Developer) - [**Infosys Limited**](https://www.infosys.com/)
+## 📫 Connect with Me
 
-## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Mhatre-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nikhil-mhatre-365785191) &nbsp; 
+[![Email](https://img.shields.io/badge/Email-mhatrenikhil36%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mhatrenikhil36@gmail.com)
 
-<a href="https://www.linkedin.com/in/sanjay-ss/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-
-<a href="mailto:sanjaysatishshekar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
