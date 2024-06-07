@@ -52,6 +52,6 @@ export default {
     "TensorFlow",
     "Rest APIs",
     "Machine Learning",
-  ],
+  ]
 
 };

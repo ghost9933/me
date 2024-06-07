@@ -46,14 +46,7 @@ export default async function Skills() {
               ))}
             </ul>
           </div>
-          <div className="skillz__category">
-            <div className="skillz__category__label">Soft Skills</div>
-            <ul>
-              {data.softSkills.map((skill) => (
-                <li className="skillz__category__item" key={skill}>{skill}</li>
-              ))}
-            </ul>
-          </div>
+         
         </div>
       </div>
     </section>
