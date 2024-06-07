@@ -5,27 +5,23 @@ export default function background() {
     <section className="section">
       <div className="section__title">Background</div>
       <div className="section__content">
-        <p>
-          I&apos;m Nikhil Mhatre, a Graduate Teaching Assistant at{" "}
-          <Link
-            className="underline-link"
-            href="https://www.uta.edu/"
-            target="_blank"
-          >
-            University of Texas at Arlington
-          </Link>
-          , where I am perfecting my skills in Computer Science, set to graduate in May 2024. With a solid foundation in FullStack development and cloud engineering, my career spans 4 years, including a significant tenure at{" "}
-          <Link className="underline-link" href="https://www.infosys.com" target="_blank">
-            Infosys Limited
-          </Link>
-          . I am currently exploring full-time opportunities where I can leverage my expertise in software engineering and cloud technologies to create impactful solutions.
-        </p>
-        <p>
-          I specialize in developing robust software systems that enhance user experience and am known for my ability to troubleshoot and optimize cloud-based applications for scalability and efficiency. My hands-on experience in designing and deploying dynamic solutions, combined with a passion for learning the latest technologies, positions me uniquely within the tech industry. I thrive in diverse teams, contributing to collaborative success while continuing to grow personally and professionally.
-        </p>
-        <p>
-          Outside the professional realm, I am an avid hiker and badminton player. My curiosity and zest for life fuel my passion for exploring new challenges, whether on a trail or in technology.
-        </p>
+      <p>
+  I'm Nikhil Mhatre, a driven and detail-oriented Software Developer currently honing my expertise in Cloud Computing and Big Data as a Graduate Teaching Assistant at 
+  <Link
+    className="underline-link"
+    href="https://www.uta.edu/"
+    target="_blank"
+  >
+    University of Texas at Arlington
+  </Link>
+  , where I am pursuing a Master's degree with a perfect 4.0 GPA, set to graduate in May 2024. My professional journey includes significant roles such as a Data Engineer at LTI Mindtree, where I enhanced data processes and efficiencies, and earlier positions in software development at Infosys Limited. I am passionate about using my extensive skills in programming, cloud-native applications, and data engineering to develop impactful software solutions and eagerly looking for full-time opportunities to further my career in tech.
+</p>
+<p>
+  My technical proficiency spans a broad spectrum of languages and frameworks, with a special focus on creating scalable cloud-based solutions and automating data pipelines. I am known for my collaborative approach, leading teams to drive innovation and improve software functionalities effectively. My ongoing commitment to professional growth is complemented by a zeal for learning emerging technologies and frameworks.
+</p>
+<p>
+  Beyond my technical endeavors, I engage in hiking and badminton, embracing challenges that refine my problem-solving skills in both professional and personal landscapes.
+</p>
         <Link className="status" href="/resume.pdf" target="_blank">
           <div className="status__light">
             <div className="status__light__ring"></div>
