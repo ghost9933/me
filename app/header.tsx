@@ -11,7 +11,7 @@ export default function header() {
         I&apos;m <span className="name">Nikhil Nandkumar Mhatre</span>,  a passionate software engineer dedicated to solving real-world problems through technology, continuously learning, and humbly collaborating with others to create innovative solutions.
         <img
           className="emoji technologist"
-          src="/emojis/technologist.png"
+          src="./emojis/technologist.png"
           alt=""
         />
       </h2>
@@ -20,7 +20,7 @@ export default function header() {
 
         <img
           className="emoji pointer"
-          src="/emojis/pointright.png"
+          src="./emojis/pointright.png"
           alt="pointright"
         />
 

@@ -33,7 +33,7 @@ export default function Footer() {
             key={social.title}
           >
             <span className="text">{social.title}</span>
-            <img src={`/social/${social.title}.svg`} alt={social.title} />
+            <img src={`./social/${social.title}.svg`} alt={social.title} />
           </Link>
         ))}
       </div>

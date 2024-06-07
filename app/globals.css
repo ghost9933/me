@@ -52,14 +52,14 @@ html {
 [data-theme="dark"],
 [data-theme="dark"] body .switch-wrapper .sun,
 [data-theme="dark"] html .switch-wrapper .sun {
-    background: url(/switch/sun-white.svg) no-repeat center;
+    background: url(./switch/sun-white.svg) no-repeat center;
     background-size: 100%
 }
 
 [data-theme="dark"],
 [data-theme="dark"] body .switch-wrapper .moon,
 [data-theme="dark"] html .switch-wrapper .moon {
-    background: url(/switch/moon-white.svg) no-repeat center;
+    background: url(./switch/moon-white.svg) no-repeat center;
     background-size: 100%
 }
 
@@ -245,7 +245,7 @@ strong {
   bottom: 2px;
   margin-left: 15px;
   content: "";
-  background: url("/emojis/arrow.png") no-repeat center;
+  background: url("./emojis/arrow.png") no-repeat center;
   background-size: 100%;
   width: 15px;
   height: 15px;
@@ -348,12 +348,12 @@ strong {
 }
 
 .switch-wrapper .sun {
-  background: url(/switch/sun.svg) no-repeat center;
+  background: url(./switch/sun.svg) no-repeat center;
   background-size: 100%;
 }
 
 .switch-wrapper .moon {
-  background: url(/switch/moon.svg) no-repeat center;
+  background: url(./switch/moon.svg) no-repeat center;
   background-size: 100%;
 }
 
@@ -499,7 +499,7 @@ strong {
 }
 
 .intro__hello .wave-hand {
-  background-image: url("/emojis/wave.png");
+  background-image: url("./emojis/wave.png");
   margin-left: 10px;
   cursor: pointer;
   display: inline-block;
