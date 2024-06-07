@@ -1,6 +1,7 @@
 import Data from "./experience_data";
 import Link from "next/link";
 
+
 export default function Experience() {
   return (
     <section className="section experience">
@@ -16,6 +17,7 @@ export default function Experience() {
                 <div className="job__time">{job.time}</div>
               </div>
               <div className="job__position">{job.position}</div>
+              <div className="job__description">{job.description}</div>
             </div>
           ))}
         </div>
