@@ -80,7 +80,7 @@ jobs:
         with:
           path: ./out
       - name: List output directory
-          run: ls -al out/
+        run: ls -al out/
 
   # Deployment job
   deploy:
