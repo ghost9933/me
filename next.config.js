@@ -13,7 +13,7 @@ const nextConfig = {
   // Optional: Change the output directory `out` -> `dist`
   // distDir: 'dist',
   basePath: '', // Replace '<repository-name>' with your GitHub repository name
-  assetPrefix: '',
+  assetPrefix: '/public',
 
   images: {
     loader: 'imgix', // Use 'imgix' as the loader
