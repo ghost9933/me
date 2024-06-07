@@ -1,0 +1,31 @@
+name: Node.js CI
+
+on:
+  push:
+    branches: [ main ]  # This triggers the workflow on pushes to the main branch.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Specifies the runner environment.
+
+    steps:
+      - uses: actions/checkout@v2  # Checks out your repository under $GITHUB_WORKSPACE, so your workflow can access it.
+
+      - uses: actions/setup-node@v2  # Sets up a Node environment.
+        with:
+          node-version: '18'  # Sets the Node.js version.
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci  # Clean install dependencies.
+
+      - name: Build
+        run: |
+          npm run build  # Builds your project and outputs files to the 'out' directory.
+          touch out/.nojekyll  # Prevents GitHub Pages from ignoring files that begin with an underscore.
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4  # This action handles the deployment.
+        with:
+          branch: gh-pages  # The target GitHub Pages branch.
+          folder: out  # The folder where your build script outputs the static files.
