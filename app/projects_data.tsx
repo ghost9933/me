@@ -39,6 +39,6 @@ export default [
       </ul>
     ),
     imageUrl: "./projects/Summariser.gif",  // Placeholder - replace with actual path
-    projectLink: "https://github.com/yourusername/textsummarizer"
+    projectLink: "https://github.com/ghost9933/AbstractiveSummarizer"
   }
 ];
