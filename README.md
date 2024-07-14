@@ -1,16 +1,13 @@
-Here's a revised and personalized GitHub profile README for Nikhil Mhatre, designed to showcase his skills, experience, and educational background effectively. This revised version enhances readability and emphasizes key achievements.
-
----
 
 ### Hi there 👋
-#### Check out my website at [nikhilmhatre.github.io](https://nikhilmhatre.github.io/)
+#### Check out my website at https://ghost9933.github.io/NikhilMhatrePortFolio/
 
 # Nikhil Mhatre
 ### Passionate Data Engineer and Software Developer 💻 💖
-Welcome to my GitHub! This is where I showcase projects spanning cloud-native applications, big data, and AI. I'm currently on the lookout for full-time Software Engineering opportunities starting May 2024. Dive in and feel free to reach out!
+Welcome to my GitHub! This is where I showcase projects spanning cloud-native applications, big data, and AI. I'm currently looking for full-time Software Engineering opportunities starting May 2024. Dive in and feel free to reach out!
 
 ## About Me
-Hello, I'm **Nikhil Mhatre**, a dedicated **Software Developer and Data Engineer** with a specialization in **Cloud Computing and Big Data**. I'm finishing up my **Master's in Computer Science** at **University of Texas at Arlington**, boasting a perfect 4.0 GPA. My professional journey is marked by roles that span full stack development, database management, and crafting scalable cloud solutions. I aim to leverage my extensive tech expertise to drive innovation and efficiency in software engineering.
+Hello, I'm **Nikhil Mhatre**, a dedicated **Software Developer and Data Engineer** specializing in **Cloud Computing and Big Data**. I'm finishing up my **Master's in Computer Science** at **University of Texas at Arlington**, boasting a perfect 4.0 GPA. My professional journey is marked by roles that span full stack development, database management, and crafting scalable cloud solutions. I aim to leverage my extensive tech expertise to drive innovation and efficiency in software engineering.
 
 ### Nikhil.js
 
